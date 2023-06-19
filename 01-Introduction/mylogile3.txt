@@ -1,0 +1,9 @@
+[2021-07-29 16:04:57,199] Muhammad-Faisal-Mac.local/INFO/locust.main: Run time limit set to 30 seconds
+[2021-07-29 16:04:57,199] Muhammad-Faisal-Mac.local/INFO/locust.main: Starting Locust 1.6.0
+[2021-07-29 16:04:57,199] Muhammad-Faisal-Mac.local/INFO/locust.runners: Spawning 5 users at the rate 1 users/s (0 users already running)...
+[2021-07-29 16:04:57,444] Muhammad-Faisal-Mac.local/ERROR/http_post_catch_response: Exiting the test run
+[2021-07-29 16:04:57,444] Muhammad-Faisal-Mac.local/INFO/locust.runners: Stopping 1 users
+[2021-07-29 16:04:57,444] Muhammad-Faisal-Mac.local/INFO/locust.runners: 1 Users have been stopped, 1 still running
+[2021-07-29 16:04:57,445] Muhammad-Faisal-Mac.local/INFO/locust.main: Running teardowns...
+[2021-07-29 16:04:57,445] Muhammad-Faisal-Mac.local/INFO/locust.main: Shutting down (exit code 1), bye.
+[2021-07-29 16:04:57,445] Muhammad-Faisal-Mac.local/INFO/locust.main: Cleaning up runner...

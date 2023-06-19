@@ -1,0 +1,9 @@
+\\mf2012x64.npb.local\test1
+\\mf2012x64.npb.local\test2
+\\mf2012x64.npb.local\test3
+\\mf2012x64.npb.local\test4
+\\mf2012x64.npb.local\test5
+\\mf2012x64.npb.local\test6
+\\mf2012x64.npb.local\test7
+\\mf2012x64.npb.local\test8
+\\mf2012x64.npb.local\test9

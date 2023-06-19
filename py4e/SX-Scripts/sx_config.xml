@@ -1,0 +1,13 @@
+<sx>
+  <server>
+		<base_url>https://mf2016-03.npb.local</base_url>
+		<username>npb\mfuser1</username>
+		<password>Admin1234</password>
+  </server>
+  <token>:9777/token</token>
+	<api>
+		<scan>
+			<create>:9777/api/v2/scan/policy</create>
+		</scan>
+	</api>
+</sx>

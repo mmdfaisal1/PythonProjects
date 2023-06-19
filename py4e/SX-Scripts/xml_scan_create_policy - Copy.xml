@@ -1,0 +1,59 @@
+﻿<sx>
+  <api>/api/v1/scan/policy</api>
+  <scans>
+    <scan>
+        <name>API Demo Scan Name 1</name>
+        <description>API Demo Scan Description 1</description>
+        <paths>
+          <path>
+            <name>\\fas6040-01.npb.local\mixed1_OK_vol_mixed</name>
+          </path>
+          <path>
+            <name>fas6040-01.npb.local:/vol/OK_vol_mixed/mixed2_OK_vol_mixed</name>
+          </path>
+        </paths>
+        <scan-options>
+          <agent-choice>1</agent-choice>
+          <agent-group></agent-group>
+          <proxy-machine-name></proxy-machine-name>
+        </scan-options>
+        <tags>
+          <tag>
+            <name>API Demo Tag Name 1</name>
+            <value>API Demo Tag Value 1</value>
+          </tag>
+          <tag>
+            <name>API Demo Tag Name 2</name>
+            <value>API Demo Tag Value 2</value>
+          </tag>
+        </tags>
+      </scan>
+      <scan>
+        <name>API Demo Scan Name 2</name>
+        <description>API Demo Scan Description 2</description>
+        <paths>
+          <path>
+            <name>\\fas6040-01.npb.local\mixed3_OK_vol_mixed</name>
+          </path>
+          <path>
+            <name>fas6040-01.npb.local:/vol/OK_vol_mixed/mixed4_OK_vol_mixed</name>
+          </path>
+        </paths>
+        <scan-options>
+          <agent-choice>3</agent-choice>
+          <agent-group></agent-group>
+          <proxy-machine-name>ok2k8x64b.npb.local</proxy-machine-name>
+        </scan-options>
+        <tags>
+          <tag>
+            <name>API Demo Tag Name 3</name>
+            <value>API Demo Tag Value 3</value>
+          </tag>
+          <tag>
+            <name>API Demo Tag Name 4</name>
+            <value>API Demo Tag Value 4</value>
+          </tag>
+        </tags>
+      </scan>
+   </scans>
+</sx>

@@ -1,0 +1,33 @@
+[2021-07-30 17:15:47,759] 0a6ce623fd02/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-07-30 17:15:47,767] 0a6ce623fd02/INFO/locust.main: Starting Locust 2.0.0b3
+[2021-07-30 17:15:47,773] 0a6ce623fd02/INFO/root: Terminal was not a tty. Keyboard input disabled
+[2021-07-30 17:16:25,623] 0a6ce623fd02/INFO/locust.runners: Ramping to 2 users using a 1.00 spawn rate
+[2021-07-30 17:16:25,892] 0a6ce623fd02/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 17:16:26,627] 0a6ce623fd02/INFO/locust.runners: All users spawned: {"MyHttpUser": 2} (2 total users)
+[2021-07-30 17:16:26,852] 0a6ce623fd02/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 17:16:29,951] 0a6ce623fd02/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 17:16:30,920] 0a6ce623fd02/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 17:28:35,659] 0a6ce623fd02/INFO/locust.main: Got SIGTERM signal
+[2021-07-30 17:28:35,661] 0a6ce623fd02/INFO/locust.main: Running teardowns...
+[2021-07-30 17:28:35,662] 0a6ce623fd02/INFO/locust.main: Shutting down (exit code 0), bye.
+[2021-07-30 17:28:35,663] 0a6ce623fd02/INFO/locust.main: Cleaning up runner...
+[2021-07-30 18:58:07,450] 8b3ed28d971f/INFO/locust.main: Starting web interface at http://0.0.0.0:8089 (accepting connections from all network interfaces)
+[2021-07-30 18:58:07,458] 8b3ed28d971f/INFO/locust.main: Starting Locust 2.0.0b3
+[2021-07-30 18:58:07,463] 8b3ed28d971f/INFO/root: Terminal was not a tty. Keyboard input disabled
+[2021-07-30 18:58:17,430] 8b3ed28d971f/INFO/locust.runners: Ramping to 2 users using a 1.00 spawn rate
+[2021-07-30 18:58:17,847] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:18,433] 8b3ed28d971f/INFO/locust.runners: All users spawned: {"MyHttpUser": 2} (2 total users)
+[2021-07-30 18:58:18,915] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:21,938] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:22,977] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:26,003] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:27,033] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:30,075] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:31,096] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:34,135] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:35,387] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 18:58:38,276] 8b3ed28d971f/INFO/http_post_catch_response: The required text found in response
+[2021-07-30 19:02:48,997] 8b3ed28d971f/INFO/locust.main: Got SIGTERM signal
+[2021-07-30 19:02:48,998] 8b3ed28d971f/INFO/locust.main: Running teardowns...
+[2021-07-30 19:02:48,999] 8b3ed28d971f/INFO/locust.main: Shutting down (exit code 0), bye.
+[2021-07-30 19:02:49,000] 8b3ed28d971f/INFO/locust.main: Cleaning up runner...

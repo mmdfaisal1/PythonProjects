@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Hawaii",
+                    "short_name": "Hawaii",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Tempe",
+                    "short_name": "Tempe",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Maricopa County",
+                    "short_name": "Maricopa County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Arizona",
+                    "short_name": "AZ",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "85281",
+                    "short_name": "85281",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Hawaii, Tempe, AZ 85281, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 33.4233906,
+                        "lng": -111.8880354
+                    },
+                    "southwest": {
+                        "lat": 33.4223228,
+                        "lng": -111.8884676
+                    }
+                },
+                "location": {
+                    "lat": 33.4229288,
+                    "lng": -111.8883942
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.4242056802915,
+                        "lng": -111.8869025197085
+                    },
+                    "southwest": {
+                        "lat": 33.4215077197085,
+                        "lng": -111.8896004802915
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJianAt0UIK4cRb7BBtJf0TzU",
+            "types": [
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}
